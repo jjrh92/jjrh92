@@ -1,7 +1,5 @@
 <h1 align="center">Hello 🖖, I'm Julio</h1>
-<h3 align="center">A passionate web developer</h3>
-
-- 🔭 I’m currently working on **my portfolio**
+<h3 align="center">A passionate student</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
