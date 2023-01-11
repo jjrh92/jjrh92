@@ -7,7 +7,7 @@
 
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juliojesusreyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliojesusreyes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jjrh92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliojesusreyes" height="30" width="40" /></a>
 <a href="https://instagram.com/jjrh92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjrh92" height="30" width="40" /></a>
 <a href="https://discord.gg/jjrh92#5049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jjrh92#5049" height="30" width="40" /></a>
 </p>
