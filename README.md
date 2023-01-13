@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🖖, I'm Julio</h1>
-<h3 align="center">A passionate student</h3>
+<h3 align="center">A passionate frontend student</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
