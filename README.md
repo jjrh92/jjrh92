@@ -52,7 +52,7 @@
         <img alt="ReactJS" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
     </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+        <img alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
     </a>
     <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
       <img  alt="Photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/> 
@@ -65,9 +65,6 @@
     </a>
     <a href="https://www.trello.com/" target="_blank" rel="noreferrer">
       <img  alt="Trello" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/> 
-    </a>
-    <a href="https://www.putty.com/" target="_blank" rel="noreferrer">
-      <img alt="Putty" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/> 
     </a>
 </div>
 <br>
