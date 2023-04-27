@@ -7,7 +7,7 @@
 </div>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;">
-Welcome to my Github Profile. I'm 31 years old from Venezuela and have been living in Chile since 2018. Currently I'm learning REACT with Oracle Next Education and Coderhouse. I'm also been active on The Odin Project and FreeCodeCamp. Still learning a lot of things and looking foward to make new connections to work on new and fascinating projects. I believe that programming can empower people to achieve their full potential and live a better life.
+Welcome to my Github Profile. I'm 31 years old, from Venezuela and have been living in Chile since 2018. Currently I'm learning REACT with Oracle Next Education and Coderhouse. I also have been active on The Odin Project and FreeCodeCamp. Still learning a lot of things and looking foward to make new connections to work on new and fascinating projects. I believe that programming can empower people to achieve their full potential and live a better life.
 <br>
 <br>
 <div align="center">
