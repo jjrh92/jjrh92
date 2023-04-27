@@ -84,13 +84,13 @@ Welcome to my Github Profile. I'm 31 years old from Venezuela and have been livi
 <!-- Begin Footer -->
 <h1 align="center">📨 Contact Me</h1>
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.linkedin.com/in/jjrh92/" target="_blank">
+    <a title="Contact me - LinkedIn" href="https://www.linkedin.com/in/jjrh92/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
     </a>
     <a href="https://t.me/jjrh92" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="Telegram" width="40px"/>
     </a>
-    <a href="https://t.me/jjrh92" target="_blank">
+    <a href="https://discordapp.com/users/125683846506086400" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/color/48/null/discord-new-logo.png" alt="Discord" width="40px"/>
     </a>
         <a href="mailto:admin@jjrh92.dev" target="_blank">
