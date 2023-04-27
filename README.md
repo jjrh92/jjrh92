@@ -1,9 +1,9 @@
-<h2 align="center"> 
+<h1 align="center"> 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> < Hello/ >!
-</h2>
+</h1>
 
-  <div align="center" style="display:block;">
-    <img alt="Programming Languages" src="https://user-images.githubusercontent.com/48032098/234991001-919cc2d2-3419-44a9-a689-cffde47547fe.png"/> 
+<div align="center" style="display:block;">
+  <img alt="Programming Languages" src="https://user-images.githubusercontent.com/48032098/234991001-919cc2d2-3419-44a9-a689-cffde47547fe.png"/> 
 </div>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
