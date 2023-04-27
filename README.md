@@ -11,7 +11,7 @@
 <br>
 </p>    
 <p align:"center" style="text-align: justify; margin: 0 50px;">
-[ESP] Bienvenido a mi perfil de Github. Tengo 31 años, soy de Venezuela y vivo en Chile desde el 2018. Actualmente estoy aprendiendo REACT con el programa Oracle Next Education y con Coderhouse. Tambien he estado aprendiendo en The Odin Project y FreeCodeCamp. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir una mejor vida. 
+[ESP] Bienvenido a mi perfil de Github. Tengo 31 años, soy de Venezuela y vivo en Chile desde el 2018. Actualmente estoy aprendiendo REACT con el programa Oracle Next Education y con Coderhouse. Tambien he estado aprendiendo en The Odin Project y FreeCodeCamp. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
 <br>
 </p>    
 <!-- Languages and Tools -->
