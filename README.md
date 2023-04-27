@@ -10,9 +10,13 @@
 Welcome to my Github Profile. I'm 31 years old, from Venezuela and have been living in Chile since 2018. Currently I'm learning REACT with Oracle Next Education and Coderhouse. I also have been active on The Odin Project and FreeCodeCamp. Still learning a lot of things and looking foward to make new connections to work on new and fascinating projects. I believe that programming can empower people to achieve their full potential and live a better life.
 <br>
 </p>    
+<p align:"center" style="text-align: justify; margin: 0 50px;">
+Bienvenido a mi perfil de Github. Tengo 31 años, soy de Venezuela y vivo en Chile desde el 2018. Actualmente estoy aprendiendo REACT con el programa Oracle Next Education y con Coderhouse. Tambien he estado aprendiendo en The Odin Project y FreeCodeCamp. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir una mejor vida. 
+<br>
+</p>    
 <!-- Languages and Tools -->
 <h1 align="center"> 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Toolbox</h1>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Toolbox-Herramientas</h1>
 <br>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
@@ -68,7 +72,7 @@ Welcome to my Github Profile. I'm 31 years old, from Venezuela and have been liv
 </div>
 <br>
 <!-- Statistics -->
-<h1 align="center">📊 Statistics</h1>
+<h1 align="center">📊 Statistics - Estadisticas</h1>
 <div class="stats" align="center">
 
 ![Julio's Stats](https://github-readme-stats.vercel.app/api?username=jjrh92&hide=stars&count_private=true&show_icons=true&theme=highcontrast&border_radius=10)
@@ -95,6 +99,6 @@ Welcome to my Github Profile. I'm 31 years old, from Venezuela and have been liv
     </a>
 </div>
     <h4 align="center">
-      <a title="Click to open my portfolio" style="font-weight: bold;" href="https://jjrh92.dev/">Visit my Portafolio</a>
+      <a title="Click to open my portfolio" style="font-weight: bold;" href="https://jjrh92.dev/">Portafolio</a>
     </h4>
 <!-- End Footer -->
