@@ -1,8 +1,4 @@
-<h1 align="center"> 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> < Hello/ >!
-</h1>
-
-  ![header](https://user-images.githubusercontent.com/48032098/234991001-919cc2d2-3419-44a9-a689-cffde47547fe.png)
+![header](https://user-images.githubusercontent.com/48032098/234991001-919cc2d2-3419-44a9-a689-cffde47547fe.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
 Welcome to my Github Profile. I'm 31 years old from Venezuela and have been living in Chile since 2018. Currently I'm learning REACT with Oracle Next Education and Coderhouse. I'm also been active on The Odin Project and FreeCodeCamp. Still learning a lot of things and looking foward to make new connections to work on new and fascinating projects. I believe that programming can empower people to achieve their full potential and live a better life.
