@@ -98,5 +98,5 @@
     <h4 align="center">
       <a title="Click to open my portfolio" style="font-weight: bold;" href="https://jjrh92.dev/">Portfolio</a>
     </h4>
-    ![](https://komarev.com/ghpvc/?username=jjrh92&color=blue)
+    ![ProfileViews](https://komarev.com/ghpvc/?username=jjrh92&color=blue)
 <!-- End Footer -->
