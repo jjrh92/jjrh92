@@ -98,5 +98,5 @@
     <h4 align="center">
       <a title="Click to open my portfolio" style="font-weight: bold;" href="https://jjrh92.dev/">Portfolio</a>
     </h4>
-<div align="center" width="150"> ----- <a href="#"><img src="https://komarev.com/ghpvc/?username=jjrh92" width="40" /></a> ----- </div>
+<div align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=jjrh92"/></a></div>
 <!-- End Footer -->
