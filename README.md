@@ -74,8 +74,11 @@
   <img src="https://media.tenor.com/LSHKMiRdLggAAAAj/statistics-trending-up.gif" width="30px"> Statistics - Estadisticas</h1>
 <br>
 <h1 align="center"> 
+  
 ![Julio's Stats](https://github-readme-stats.vercel.app/api?username=jjrh92&hide=stars&count_private=true&show_icons=true&theme=highcontrast&border_radius=10)
+  
 ![Julio's Streak](https://streak-stats.demolab.com?user=jjrh92&count_private=true&theme=highcontrast&border_radius=10)
+  
 </h1>
 <!--  End Stats Cards -->
 
