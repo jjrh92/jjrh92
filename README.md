@@ -101,7 +101,7 @@
 <div align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=jjrh92"/></a></div>
   <p align="center">
   <a href="https://www.buymeacoffee.com/jjrh92">
-    <img align="center" width: "50%" height:"50%" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Julio Reyes" />
+    <img align="center" width: "150" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Julio Reyes" />
   </a>
 </p>
 <!-- End Footer -->
