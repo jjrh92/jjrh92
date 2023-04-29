@@ -99,6 +99,7 @@
       <a title="Click to open my portfolio" style="font-weight: bold;" href="https://jjrh92.dev/">Portfolio</a>
     </h4>
 <div align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=jjrh92"/></a></div>
+<br>
 <p align="center">
   <a href="https://www.buymeacoffee.com/jjrh92" target="_blank">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Julio Reyes" />
