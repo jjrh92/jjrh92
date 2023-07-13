@@ -66,6 +66,17 @@
     <a href="https://www.trello.com/" target="_blank" rel="noreferrer">
       <img  alt="Trello" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/> 
     </a>
+      <a href="https://en.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer">
+      <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> 
+    </a>
+    </a>
+      <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+      <img  alt="Firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/> 
+    </a>
+    </a>
+      <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
+      <img  alt="Oracle Cloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/> 
+    </a>
 </div>
 <br>
 <!-- Statistics -->
