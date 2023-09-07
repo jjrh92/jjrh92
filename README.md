@@ -9,7 +9,10 @@
 <p align:"center" style="text-align: justify; margin: 0 50px;">
 [ENG] Welcome to my Github Profile. I'm 31 years old, from Venezuela and have been living in Chile since 2018. Currently I'm learning REACT with Oracle Next Education and Coderhouse. I also have been active on The Odin Project and FreeCodeCamp. Still learning a lot of things and looking foward to make new connections to work on new and fascinating projects. I believe that programming can empower people to achieve their full potential and live a better life.
 <br>
-</p>    
+</p>
+    <a href="https://www.jjrh92.dev" target="_blank" rel="noreferrer">
+        Visit my portfolio
+    </a>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
 [ESP] Bienvenido a mi perfil de Github. Tengo 31 años, soy de Venezuela y vivo en Chile desde el 2018. Actualmente estoy aprendiendo REACT con el programa Oracle Next Education y con Coderhouse. Tambien he estado aprendiendo en The Odin Project y FreeCodeCamp. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
 <br>
