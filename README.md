@@ -45,14 +45,7 @@
     </h4>
 <div align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=jjrh92"/></a></div>
 <br>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jjrh92" target="_blank">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Julio Reyes" />
-  </a>
-</p>
 <!-- End Footer -->
-
 <div align="center"> 
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)</div>
-
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
