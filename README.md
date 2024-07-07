@@ -11,12 +11,6 @@
 <br>
 </p>
 <br>
-
-<div align="center" style="display:block;">
-  <a href="https://www.jjrh92.dev" target="_blank" rel="noreferrer">Visit my portfolio</a>
-</div>
-
-<br>
 <br>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
 [ESP] Mi nombre es Julio, soy de Venezuela y vivo en Chile desde el 2018. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
