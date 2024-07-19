@@ -18,7 +18,7 @@
 
 <!-- Begin Footer -->
 <h1 align="center">📨 Contact Me - Contactame</h1>
-<h1 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB6MzFsc2J3bXQ3MnpuYm1pMTB2bHl2ZmFwZG1sZW03N2k3dzRzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wcBC9tsubD5jrDL6g/giphy.webp" width="30px"> Contact me - Contactame</h1>
+<h1 align="center"><img src="https://icons8.com/icon/RGYWvU5ny7Oz/mailbox" width="30px"> Contact me - Contactame</h1>
 <div class="footer" align="center" style="margin:15px;">
     <a title="Let's chat on LinkedIn" href="https://www.linkedin.com/in/jjrh92/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
