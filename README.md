@@ -18,7 +18,7 @@
 
 <!-- Begin Footer -->
   <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp4ZXBjNHZnbmY0eHI5d3RnMHlkaGRrb3A1cmQ3Y3ZrMzRnY25vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqaZekJ3mPMmeMew4A/giphy.webp" width="30px"> Contact me - Contactame</h1>
-<div class="footer" align="center" style="display: flex">
+<div class="footer" align="center">
     <a title="Let's chat on LinkedIn" href="https://www.linkedin.com/in/jjrh92/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
     </a>
