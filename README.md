@@ -28,7 +28,7 @@
     <a title="Let's chat on Discord" href="https://discordapp.com/users/125683846506086400" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/color/48/null/discord-new-logo.png" alt="Discord" width="40px"/>
     </a>
-        <a title="Send me an Email" href="mailto:admin@jjrh92.dev" target="_blank">
+        <a title="Send me an Email" href="mailto:contact@jjrh92.dev" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="40px"/>
     </a>
 </div>
