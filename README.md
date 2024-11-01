@@ -33,7 +33,7 @@
     </a>
 </div>
     <h4 align="center">
-      <a title="Click to open my portfolio" style="font-weight: bold;" href="https://jjrh92.dev/">Portfolio</a>
+      <a title="Click to open my portfolio" style="font-weight: bold;" href="https://julioreyes.dev/">Portfolio</a>
     </h4>
 <div align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=jjrh92"/></a></div>
 <br>
