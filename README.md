@@ -14,6 +14,7 @@
 [ESP] Mi nombre es Julio, soy de Venezuela y vivo en España. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
 <br>
 </p>    
+<br>
 
 <!-- Begin Footer -->
   <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp4ZXBjNHZnbmY0eHI5d3RnMHlkaGRrb3A1cmQ3Y3ZrMzRnY25vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqaZekJ3mPMmeMew4A/giphy.webp" width="30px"> Contact me - Contactame</h1>
