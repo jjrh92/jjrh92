@@ -10,7 +10,6 @@
 [ENG] My name is Julio, I'm from Venezuela living in Spain. I'm learning a lot of things and looking foward to make new connections to work on new and fascinating projects. I believe that programming can empower people to achieve their full potential and live a better life.
 <br>
 </p>
-<br>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
 [ESP] Mi nombre es Julio, soy de Venezuela y vivo en España. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
 <br>
