@@ -11,7 +11,7 @@
 <br>
 </p>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
-[ESP] Mi nombre es Julio, soy de Venezuela y vivo en España. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar el proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
+[ESP] Mi nombre es Julio, soy de Venezuela y vivo en España. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar en proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
 <br>
 </p>    
 <br>
