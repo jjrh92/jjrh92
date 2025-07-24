@@ -7,13 +7,13 @@
 </div>
 <br>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
-[ENG] My name is Julio, I'm from Venezuela living in Spain. I'm learning a lot of things and looking foward to make new connections to work on new and fascinating projects. I believe that programming can empower people to achieve their full potential and live a better life.
+[ENG] Hi! I'm Julio — originally from Venezuela, now based in Spain. I'm constantly learning, always curious, and looking to connect with people to collaborate on meaningful and exciting projects.
 <br>
 </p>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
-[ESP] Mi nombre es Julio, soy de Venezuela y vivo en España. Sigo aprendiendo muchas cosas todos los dias y me gusta conocer gente nueva y trabajar en proyectos nuevos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor. 
+[ESP] ¡Hola! Soy Julio — nacido en Venezuela y actualmente viviendo en España. Me apasiona seguir aprendiendo cada día y conocer personas con las que pueda colaborar en proyectos con propósito.
 <br>
-</p>    
+</p>
 <br>
 
 <!-- Begin Footer -->
