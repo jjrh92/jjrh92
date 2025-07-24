@@ -148,9 +148,9 @@
 </p>
 
 </div>
-    <h3 align="center">
+    <h2 align="center">
       <a title="Click to open my portfolio" style="font-weight: bold;" href="https://julioreyes.dev/">Portfolio</a>
-    </h3>
+    </h2>
 <br>
 <!-- End Footer -->
 <div title="DEV Quote" align="center"> 
