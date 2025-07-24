@@ -22,8 +22,8 @@
     <a title="Let's chat on LinkedIn" href="https://www.linkedin.com/in/jjrh92/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60px"/>
     </a>
-        <a title="Send me an Email" href="mailto:contact@julioreyes.dev" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="60px"/>
+    <a title="Send me an Email" href="mailto:contact@julioreyes.dev" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="60px"/>
     </a>
 </div>
     <h4 align="center">
