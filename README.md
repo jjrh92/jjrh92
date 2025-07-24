@@ -19,13 +19,16 @@
 <!-- Begin Footer -->
   <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp4ZXBjNHZnbmY0eHI5d3RnMHlkaGRrb3A1cmQ3Y3ZrMzRnY25vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqaZekJ3mPMmeMew4A/giphy.webp" width="30px"> Contact me - Contactame</h1>
   <div class="footer" align="center">
-<a href="https://www.linkedin.com/in/jjrh92/" target="_blank">&#8203;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jjrh92/" target="_blank" title="LinkedIn">&#8203;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:contact@julioreyes.dev" target="_blank" title="Email">&#8203;
+    <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="50px"/>
+  </a>
+</p>
 
-<a href="mailto:contact@julioreyes.dev" target="_blank">&#8203;
-  <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="50px"/>
-</a>
 </div>
     <h4 align="center">
       <a title="Click to open my portfolio" style="font-weight: bold;" href="https://julioreyes.dev/">Portfolio</a>
