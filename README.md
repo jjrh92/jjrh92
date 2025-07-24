@@ -29,6 +29,23 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/jjrh92/" target="_blank" title="LinkedIn">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="mailto:contact@julioreyes.dev" target="_blank" title="Email">
+        <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="50px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 </div>
     <h4 align="center">
       <a title="Click to open my portfolio" style="font-weight: bold;" href="https://julioreyes.dev/">Portfolio</a>
