@@ -22,9 +22,6 @@
     <a title="Let's chat on LinkedIn" href="https://www.linkedin.com/in/jjrh92/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
     </a>
-    <a title="Let's chat on Telegram" href="https://t.me/jjrh92" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="Telegram" width="40px"/>
-    </a>
     <a title="Let's chat on Discord" href="https://discordapp.com/users/125683846506086400" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/color/48/null/discord-new-logo.png" alt="Discord" width="40px"/>
     </a>
