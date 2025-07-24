@@ -22,9 +22,6 @@
     <a title="Let's chat on LinkedIn" href="https://www.linkedin.com/in/jjrh92/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60px"/>
     </a>
-    <a title="Let's chat on Discord" href="https://discordapp.com/users/125683846506086400" target="_blank">
-        <img src="https://img.icons8.com/color/48/null/discord-new-logo.png" alt="Discord" width="60px"/>
-    </a>
         <a title="Send me an Email" href="mailto:contact@julioreyes.dev" target="_blank">
         <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="60px"/>
     </a>
@@ -34,7 +31,7 @@
     </h4>
 <br>
 <!-- End Footer -->
-<div align="center"> 
+<div title="DEV Quote" align="center"> 
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)</div>
   
