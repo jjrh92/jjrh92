@@ -7,11 +7,11 @@
 </div>
 <br>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
-[ENG] Hi! I'm Julio — originally from Venezuela, now based in Spain. I'm constantly learning, always curious, and looking to connect with people to collaborate on meaningful and exciting projects.
+[ENG] Originally from Venezuela, now based in Spain. I'm constantly learning, always curious, and looking to connect with people to collaborate on meaningful projects.
 <br>
 </p>
 <p align:"center" style="text-align: justify; margin: 0 50px;">
-[ESP] ¡Hola! Soy Julio — nacido en Venezuela y actualmente viviendo en España. Me apasiona seguir aprendiendo cada día y conocer personas con las que pueda colaborar en proyectos con propósito.
+[ESP] Nacido en Venezuela y actualmente viviendo en España. Curioso en seguir aprendiendo cada día y conocer personas para colaborar en proyectos interesantes.
 <br>
 </p>
 <br>
