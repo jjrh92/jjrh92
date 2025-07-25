@@ -20,7 +20,6 @@
   <h1 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRkZnpjY3F3cTFta2I2Ymk4bTBrYmlrN3hlYmM3b3h3emdzdzVlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZQaNiB0mn8gEMeD3I4/giphy.gif" width="30px"> Projects - Proyectos</h1>
   <div class="projects" align="center">
     <br>
-    <br>
 <p align="center">
 
 <table>
