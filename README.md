@@ -134,23 +134,27 @@
 </p>
 
 <!-- Begin Footer -->
-  <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp4ZXBjNHZnbmY0eHI5d3RnMHlkaGRrb3A1cmQ3Y3ZrMzRnY25vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqaZekJ3mPMmeMew4A/giphy.webp" width="30px"> Contact me - Contactame</h1>
-  <div class="footer" align="center">
-    
-<p align="center">
-  <a href="https://www.linkedin.com/in/jjrh92/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px"/>
-  </a>
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp4ZXBjNHZnbmY0eHI5d3RnMHlkaGRrb3A1cmQ3Y3ZrMzRnY25vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqaZekJ3mPMmeMew4A/giphy.webp" width="30px"> 
+  Contact me - Contáctame
+</h1>
 
-  <a href="mailto:contact@julioreyes.dev" target="_blank" title="Email">
-    <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="50px"/>
-  </a>
-</p>
-<h2 align="center" style="border: none; margin-bottom: 0;">
-  <a title="Click to open my portfolio" style="font-weight: bold;" href="https://julioreyes.dev/">Portfolio</a>
-</h2>
+<div class="footer" align="center">
+<br>
+
+[<img title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px"/>][linkedin]
+&nbsp;&nbsp;&nbsp;
+[<img title="Portfolio" src="https://em-content.zobj.net/source/apple/419/briefcase_1f4bc.png" alt="Portfolio" width="50px"/>][portfolio]
+&nbsp;&nbsp;&nbsp;
+[<img title="Email" src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="50px"/>][email]
+
+[linkedin]: https://www.linkedin.com/in/jjrh92/
+[portfolio]: https://www.julioreyes.dev
+[email]: mailto:contact@julioreyes.dev
+
 <br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 <!-- End Footer -->
