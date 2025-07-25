@@ -146,13 +146,11 @@
     <img src="https://img.icons8.com/fluency/96/null/mail.png" alt="Email" width="50px"/>
   </a>
 </p>
-    <h2 align="center">
-      <a title="Click to open my portfolio" style="font-weight: bold;" href="https://julioreyes.dev/">Portfolio</a>
-    </h2>
+<h2 align="center" style="border: none; margin-bottom: 0;">
+  <a title="Click to open my portfolio" style="font-weight: bold;" href="https://julioreyes.dev/">Portfolio</a>
+</h2>
+<br>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 <!-- End Footer -->
-
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
-  </div>
-
-
