@@ -128,6 +128,12 @@
       <td align="center">✅</td>
       <td><a href="https://tbe.julioreyes.dev">Demo</a> · <a href="https://github.com/jjrh92/TBE">Repo</a></td>
     </tr>
+    <tr>
+      <td><strong>No</strong></td>
+      <td>[ESP] Razones divertidas para deecir que no<br>[ENG] No As A Service</td>
+      <td align="center">✅</td>
+      <td><a href="https://no.julioreyes.dev">Demo</a> · <a href="https://github.com/jjrh92/no">Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
