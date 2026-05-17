@@ -134,6 +134,12 @@
       <td align="center">✅</td>
       <td><a href="https://no.julioreyes.dev">Demo</a> · <a href="https://github.com/jjrh92/no">Repo</a></td>
     </tr>
+    <tr>
+      <td><strong>Watchify</strong></td>
+      <td>[ESP] Recomienda algo para ver<br>[ENG] Recommend something to watch</td>
+      <td align="center">✅</td>
+      <td><a href="https://watchify.julioreyes.dev">Demo</a> · <a href="https://github.com/jjrh92/Watchify">Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
